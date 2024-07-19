@@ -1,0 +1,795 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/LevelsScene.unity
+    guid: 252e9f1ec0b18864a825e9da5d05bf63
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/MathLevelsScene.unity
+    guid: ea6ce4a5d3fd1a74ea58e75bd63baf39
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/GrammarLevelsScene.unity
+    guid: d12f1388bbe046d48b1b5b2400c27719
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/LevelsPlusMinus.unity
+    guid: c2c427e8d908ad04e81dbf48dbbf56cc
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/1+-.unity
+    guid: 560c1f02e7be5bb42911fe22ad91b355
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/2+-.unity
+    guid: a745fec9b8d01284f9a623c0482cd0ad
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/3+-.unity
+    guid: 0766b8364b5f7a645af7608de41536a8
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/4+-.unity
+    guid: 5cd1478f448e06a488b6afc1f7bf4b23
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/5+-.unity
+    guid: 4bf0cf4e617e94e4a83db68060a51b1c
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/6+-.unity
+    guid: 16c492bfa2dee04409ca7ff9cb6765de
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/7+-.unity
+    guid: 4fc23309bab1d1b48b13c2ce3ebe1b40
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/8+-.unity
+    guid: 93daacea5feebf04a9b1677aa3dc52bf
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/9+-.unity
+    guid: 08285c9545eedbf498a4921036d344fa
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/10+-.unity
+    guid: 54407212b55c2fe45ae777983d912792
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/11+-.unity
+    guid: 57e5a5e89dc6bb6458f152cb2bc26230
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/12+-.unity
+    guid: 47bbe4f0d5954754db04efdec976d399
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/13+-.unity
+    guid: 03e16598e39f6724a9cce951bd64d169
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/14+-.unity
+    guid: 1f14f04a03ee1bc40879e767fb7391c2
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/15+-.unity
+    guid: e6374d98c87ec784ca3c98bd2aa0c0c0
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/16+-.unity
+    guid: feed4c717317aca46b3bf50512f5cae9
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/17+-.unity
+    guid: 675ac76fe61e1214ea35cff5d217b8d5
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/18+-.unity
+    guid: 65a9a69c5e7e1024da2b50b1c86260cb
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/19+-.unity
+    guid: 5f8f4f1ea0f1fe94bb047117773c4ec6
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/+and-/20+-.unity
+    guid: 6981b545393f48c4da1abd43a932349a
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/LevelsGreaterLess.unity
+    guid: 17ea9435a3b49734a85f557d6285ef56
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/1bigless.unity
+    guid: b3505420ba2b7944196a7942164f7155
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/2bigless.unity
+    guid: 73f68c437adb4094a8e6eaee3e7b79cf
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/3bigless.unity
+    guid: b7e60e55f51503348af742762cbb7e46
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/4bigless.unity
+    guid: d7a69a3241ee17041888062c56141881
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/5bigless.unity
+    guid: d463a84a1e4e3e9488f2713e52c7fb56
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/6bigless.unity
+    guid: 171f8754f46ad26469118a3e9b444b70
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/7bigless.unity
+    guid: ccf29c6e5baa9d948ada927d39407e8c
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/8bigless.unity
+    guid: 3ffe9747570c1a94b868136a7f696d7c
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/9bigless.unity
+    guid: 6e7549416b03f1a4d9f012e0d668437c
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/10bigless.unity
+    guid: 43636859dbd82824798404bd9b9ac5f3
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/11bigless.unity
+    guid: 2ed7e78f3c87785498045a02bae3fb54
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/12bigless.unity
+    guid: 4d09eaa9eee3e2641985a4936b66d41a
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/13bigless.unity
+    guid: d8ddf150b5d84574b8ede3677d1fb985
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/14bigless.unity
+    guid: 171ad02a0363ccf4abbbcfcbe463ba0e
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/15bigless.unity
+    guid: bee84942f96dcf846961de8835d186b6
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/16bigless.unity
+    guid: 45d9b39f028228741a330946c00b5261
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/17bigless.unity
+    guid: c7d0578cfc51f884c82952bc0ed92bbd
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/18bigless.unity
+    guid: 7e95d19614f242d449bec74ed70d8116
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/19bigless.unity
+    guid: d29424b75a63a83498864870718de6d0
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/bigAndLess/20bigless.unity
+    guid: 1da19b6e41b2d224c8a342c7a88e3794
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/LevelsMultiply.unity
+    guid: 65eaaac03bbda8645a0ecfa7b7f5981f
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/1multiply.unity
+    guid: 260e5b1c46bd4ad48a15e03cb6e3aa79
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/2multiply.unity
+    guid: 601381bee36198f49afe0ce2969d9ad6
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/3multiply.unity
+    guid: 6ac72c0cd38875942bdd2f851701f427
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/4multiply.unity
+    guid: 1117c16f8fb7ef6458f8050928b0dc8d
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/5multiply.unity
+    guid: 43992b630bdb9a449a4b8a26ae73b0d0
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/6multiply.unity
+    guid: 94cfedd17c979f344bda2b2711e316fe
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/7multiply.unity
+    guid: 71bd5ae35bab2d14ea75223103492af3
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/8multiply.unity
+    guid: 53654e71ba1d8af46b2082c5c627006c
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/9multiply.unity
+    guid: 7e3cd4c32cb49a745b959d545ead5e19
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/10multiply.unity
+    guid: ccba8ecf6f6b5e4469e8476c5f90841f
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/11multiply.unity
+    guid: 99c920852b8a81f4f84bb93134dd7734
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/12multiply.unity
+    guid: 3361a52f015fc984cad91b0fa5bfa9ea
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/13multiply.unity
+    guid: f1cf8c33a1ecec840b1d3b6857b000dd
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/14multiply.unity
+    guid: e6f2cacc0e265ed4db5382b2e4cda4ed
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/15multiply.unity
+    guid: 958e0d61513e682469e87554dce6165a
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/16multiply.unity
+    guid: 4a0ba07568ae1044180a2ff2d936b89f
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/17multiply.unity
+    guid: ed20c0d021a336c4b92fdf950977270a
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/18multiply.unity
+    guid: 52f0c977c7225d740a53a48269301e2c
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/19multiply.unity
+    guid: a10ef09289963a1479c654f32a86d470
+  - enabled: 1
+    path: Assets/Scenes/Math Scenes/multiplyANDs/20multiply.unity
+    guid: 19feca99c64748544a4f8f5f87f6f61e
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/LevelsMakeSent.unity
+    guid: b4483ee0b12fb68468830cd6a9b57cc3
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/1makeSent.unity
+    guid: ad4171c97c693da489b0a80626cecba5
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/2makeSent.unity
+    guid: e97cbee859a1ed64a98b8dba21bfab22
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/3makeSent.unity
+    guid: 8b85723b070ad6f4d956c7c2544cfc82
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/4makeSent.unity
+    guid: 02d54c0b0a6319244bd6fc2e0cbe31a3
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/5makeSent.unity
+    guid: 7a6d84fa6aae5aa4b8994cbcc0acf3ec
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/6makeSent.unity
+    guid: 9eff39c596c2a2e4a862943cb1d374d5
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/7makeSent.unity
+    guid: 5be28308d2a2da747a0155b766246175
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/8makeSent.unity
+    guid: 7a7e2f361b41c3c47974722ddd73b0fd
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/9makeSent.unity
+    guid: ece4e94327c9abb47bb91286c7a20f7b
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/10makeSent.unity
+    guid: 0ff7376b319d99a40a70d86c9c7d0a8a
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/11makeSent.unity
+    guid: 59ca1f715a327284f9dbdfa373e8ff89
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/12makeSent.unity
+    guid: ad5c39bed0319e54b9d44d7434bd4acd
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/13makeSent.unity
+    guid: ba1e4bb3648da974c9caa4b71e70bb97
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/14makeSent.unity
+    guid: bc72ea83f2c621b4793be805971ead89
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/15makeSent.unity
+    guid: 016697e05f0eb4a43a697366631d122c
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/16makeSent.unity
+    guid: 520d3bb7b40e02f44a7cf2bdb94be3e2
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/17makeSent.unity
+    guid: d284e5cbe625cb4409b0e73abe5f93d0
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/18makeSent.unity
+    guid: 4cb5b674ed039094d9d636461c5d083e
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/19makeSent.unity
+    guid: ddbd898657f45b8429533f2ac4facc49
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/MakeSentences/20makeSent.unity
+    guid: f82de7992df08ce449256b25d949b8f3
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/LevelsCreateWord.unity
+    guid: e5aa4ab52f3f3bf47b54d1c783f3cdf0
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/1wordCr.unity
+    guid: b8eeed9e7f02f5348a33c19e8a438ab7
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/2wordCr.unity
+    guid: 7536e898784f08742acf36c5f3fc2e07
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/3wordCr.unity
+    guid: 02f3a1c93275db041899fd22b04b6ade
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/4wordCr.unity
+    guid: c1e9b64efa5f4434a958edd95c4a4b22
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/5wordCr.unity
+    guid: 35bc9626d46b9f94095aa8bf2c452dcd
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/6wordCr.unity
+    guid: 03c1b402595ce31489ba3c51495eca02
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/7wordCr.unity
+    guid: d581abdc5dc55354985301ac40d9a62f
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/8wordCr.unity
+    guid: b9132f369610e3f48ad40fbbecf8fb05
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/9wordCr.unity
+    guid: 6fddcc9f4d935be46a1aa7ed99f224a2
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/10wordCr.unity
+    guid: 4ac0a8453abeb6e4eaa6f32d06d20352
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/11wordCr.unity
+    guid: 72257be1b0cfdb84182dcb8c97e58b98
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/12wordCr.unity
+    guid: 28534db5a6f779d4990a3cdc255bae03
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/13wordCr.unity
+    guid: b9214802b20c96349b656f19a7d24f67
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/14wordCr.unity
+    guid: cec1add70e38fc545a57b171939adf64
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/15wordCr.unity
+    guid: 2894bf945cc099b4fb4052ebad1de6f8
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/16wordCr.unity
+    guid: db949559257034f4ca1874c634180f39
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/17wordCr.unity
+    guid: 9a376d2140d49344b9b76fd1c609b117
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/18wordCr.unity
+    guid: bf9c045fd0039f04e8046c8a092dd073
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/19wordCr.unity
+    guid: 9c541b6b1d97780428b1ef32d2cc28d5
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/CreateWord/20wordCr.unity
+    guid: 3a461434b41a00a4383f4dd379647e24
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/LevelsMistake.unity
+    guid: e3b5f075c1b25944a86485f7ac769264
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/1mistake.unity
+    guid: 7ce405d9de237364dafdb7b4f17fe7b7
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/2mistake.unity
+    guid: 0c7ad6279d107634889ed8fa570ca770
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/3mistake.unity
+    guid: 0923dc10480ac9c48ba974a450ee9bc3
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/4mistake.unity
+    guid: 5ea2b6017277e9043915b7dd75d3b90a
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/5mistake.unity
+    guid: cd0538c4271bf1944b6cffc72289446f
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/6mistake.unity
+    guid: f1e6cf97e7258c641ab6a67b1d0fbd3e
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/7mistake.unity
+    guid: 4cca38a1d25ebe441b7ff4e62829eca8
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/8mistake.unity
+    guid: 3f7a206169bfa234e9ace4e80e46adc3
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/9mistake.unity
+    guid: 78445cac36bacd04396b0d11601d0cb1
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/10mistake.unity
+    guid: eba4eadd1d469d44583d41f848380e06
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/11mistake.unity
+    guid: e00b641d8632d7748b35b2cf98575044
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/12mistake.unity
+    guid: e60dcba3070e8bb43873b02edad3c09c
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/13mistake.unity
+    guid: 2f0b9faee247e6f439564733382dd224
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/14mistake.unity
+    guid: a66e74ad8517f334580f6ec532f76d5f
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/15mistake.unity
+    guid: c77ac96f269827d4da750b7514690431
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/16mistake.unity
+    guid: 2f44faf098b56c74bb65354687036cc4
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/17mistake.unity
+    guid: 7c7fa41411f39c74085c39648d2adf15
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/18mistake.unity
+    guid: 78b654bfbf3acf3408c0fceee397c879
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/19mistake.unity
+    guid: 366a4578df0fd9149a91fb013d1b9d4d
+  - enabled: 1
+    path: Assets/Scenes/Grammar Scenes/Mistake/20mistake.unity
+    guid: 11b5764e662c5f0429284f4222b2c04b
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/InfLevelsScene.unity
+    guid: 0f4262b0ce6ed534c9c3a7aa69fcafba
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/1hiPC.unity"
+    guid: 0d17d9f014ee2854aaf481cc7d845bad
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/2hiPC.unity"
+    guid: 3423199afc1ff664d8591402237243b0
+  - enabled: 0
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/3hiPC.unity"
+    guid: de23b7a40c642424b83f83a3c0abb174
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/4hiPC.unity"
+    guid: 3e9faf457888fbe4a8d5817a83b7550d
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/5hiPC.unity"
+    guid: 1dcab60628fb3bc43a23818e2aac63f7
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/6hiPC.unity"
+    guid: 155c568bb842ba348844c2cc935c3d79
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/7hiPC.unity"
+    guid: 41a815dc53a7d214aab13e7673cbacdb
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/8hiPC.unity"
+    guid: 83f66c0705902c143beabe4132bbfd55
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/9hiPC.unity"
+    guid: 06ae1a8c715253c4c987d96c70b34206
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/10hiPC.unity"
+    guid: 58d2af51906b3ef4ead49de5d334100d
+  - enabled: 0
+    path: "Assets/Scenes/Inf Scenes/1.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E/11hiPC.unity"
+    guid: 40daf0489e99df340b4ce2a5405852a1
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/1basicPC.unity"
+    guid: 5b9e5f5f983f1784d83bfdc6fabfa215
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/2basicPC.unity"
+    guid: 53e78cdd48f4f1c4eb22e35736be7604
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/3basicPC.unity"
+    guid: 08894189dcd34794d9c07bfd88138c85
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/4basicPC.unity"
+    guid: 85e75f09473658b4fa1ee7587a9d647a
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/5basicPC.unity"
+    guid: 84e828d739d2a5642b3602cec546d2b2
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/6basicPC.unity"
+    guid: 4b7f706b505f70240be18e72aa549d5d
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/7basicPC.unity"
+    guid: f97b4b3406491bb4f8dcd85b629e107a
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/9basicPC.unity"
+    guid: 201613b57d0e92a47a08061fd8c51deb
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/8basicPC.unity"
+    guid: 06aa93293b637984cb6af5ff202d2df5
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/10basicPC.unity"
+    guid: 76c44f572a8a1ce4bb5b2c4edaa93736
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/2.\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u0430
+      \u043A\u043E\u043C\u043F\u0430/11basicPC.unity"
+    guid: f42b84d442015f34bb676a8295793a6b
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/3.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F
+      \u0432\u043E\u043A\u0440\u0443\u0433 \u043D\u0430\u0441/1aroundInf.unity"
+    guid: 16392f180c27a504a97494916b7a4a89
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/3.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F
+      \u0432\u043E\u043A\u0440\u0443\u0433 \u043D\u0430\u0441/2aroundInf.unity"
+    guid: 4542c63d952bc8a4e99e7137f34faba8
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/3.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F
+      \u0432\u043E\u043A\u0440\u0443\u0433 \u043D\u0430\u0441/3aroundInf.unity"
+    guid: 5f2f5c0bbcfe60c4bbf2dc1d622b7de3
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/3.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F
+      \u0432\u043E\u043A\u0440\u0443\u0433 \u043D\u0430\u0441/4aroundInf.unity"
+    guid: 3232794d45e97744f9496397ee8594d5
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/3.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F
+      \u0432\u043E\u043A\u0440\u0443\u0433 \u043D\u0430\u0441/5aroundInf.unity"
+    guid: 90a8c28af4fc46f4ebfcb95f6b3ddfef
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/3.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F
+      \u0432\u043E\u043A\u0440\u0443\u0433 \u043D\u0430\u0441/6aroundInf.unity"
+    guid: 776b7f8f87cb9304790605b99d81afe8
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/3.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F
+      \u0432\u043E\u043A\u0440\u0443\u0433 \u043D\u0430\u0441/7aroundInf.unity"
+    guid: 0a484b7ff9119ba48bd103cc1e342a70
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/3.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F
+      \u0432\u043E\u043A\u0440\u0443\u0433 \u043D\u0430\u0441/8aroundInf.unity"
+    guid: ba5ee93ee50337e45aa7e316589761d5
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/4.\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438
+      \u0418\u043D\u0444/1sourceInf.unity"
+    guid: ed2c434e436eee345ba51001fd7ccd82
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/4.\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438
+      \u0418\u043D\u0444/2sourceInf.unity"
+    guid: 8d73b36fc39dc784ea5dcc9c39ea5f02
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/4.\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438
+      \u0418\u043D\u0444/3sourceInf.unity"
+    guid: 6419e93ea372c354fbd6ad390849ba91
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/4.\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438
+      \u0418\u043D\u0444/4sourceInf.unity"
+    guid: 28d511ef3d1adb0498e00fdee054ba24
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/4.\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438
+      \u0418\u043D\u0444/5sourceInf.unity"
+    guid: a4ad9f9f18ee425448308c27efa2cca3
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/4.\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438
+      \u0418\u043D\u0444/6sourceInf.unity"
+    guid: 734a3345200805f45bc96523db4bf0ba
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/4.\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438
+      \u0418\u043D\u0444/7sourceInf.unity"
+    guid: edaa7438404b67f428c615b6a49d7056
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/4.\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438
+      \u0418\u043D\u0444/8sourceInf.unity"
+    guid: 4240ec0db10b0f04c89682f637b6b76e
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/4.\u0418\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u0438
+      \u0418\u043D\u0444/9sourceInf.unity"
+    guid: 22eb0f5b33e1bf64f9cdbb8eb75d7153
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/1Internet.unity"
+    guid: 3079740cc338b9448bc4fb93099ddfba
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/2Internet.unity"
+    guid: 2b3e056ee89374b4c887233728bb5c64
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/3Internet.unity"
+    guid: 8a64bf6ae581f654eabf2532ea01cd87
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/4Internet.unity"
+    guid: 3362b51399d8d6145b088049042439d6
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/5Internet.unity"
+    guid: ceb414cf56afb774f9755953f929eefa
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/6Internet.unity"
+    guid: 6fa213ae07161b34cb93559196409694
+  - enabled: 0
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/7Internet.unity"
+    guid: be4b04803ec22e5498b86b860c4db30a
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/8Internet.unity"
+    guid: 566a21e34a0c6b0438a09cc5d775eac6
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/9Internet.unity"
+    guid: 7c81fbdda19937f44a65023b94c79da2
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/10Internet.unity"
+    guid: f5bdced1a9f7c684bb78c40ab6e2fd26
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/11Internet.unity"
+    guid: 037b2437854fb0841873fe32ad4490cd
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/12Internet.unity"
+    guid: 0174307469166b148a2752072c5f846c
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/13Internet.unity"
+    guid: 67d60d302bc81b74a8cf3763653a0b5c
+  - enabled: 1
+    path: "Assets/Scenes/Inf Scenes/5.\u0417\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u043E
+      \u0441 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442\u043E\u043C/14Internet.unity"
+    guid: 98b5ce626fd0ec645aa84a8498a71a41
+  - enabled: 1
+    path: Assets/Scenes/Logic/LogicLevelsScene.unity
+    guid: 026ba61cf769fa246aa13dd5c97c8ea4
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/LevelsGuess.unity"
+    guid: 1d52fd43bbb780947923710aba207db0
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/1guess.unity"
+    guid: acc820e6a84c77545aa2c99708594744
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/2guess.unity"
+    guid: 3694eec9302b68d4391e71fe56f8022f
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/3guess.unity"
+    guid: 09de041ef3efdfa47afa12bb86ebf85f
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/4guess.unity"
+    guid: a1b6c06a619d2924ab18d919f4a5f5e7
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/5guess.unity"
+    guid: e0374a6847119354386c80901311c389
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/6guess.unity"
+    guid: ddca5d3b70475b74f95cf2692be31a27
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/7guess.unity"
+    guid: 5cf252d7013498d42b32e00b4f53a1f5
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/8guess.unity"
+    guid: 4bc3bf8e4d74ddc42bccdc12eb4668f3
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/9guess.unity"
+    guid: c55871ec97fb99542b093436e93cbcb1
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/10guess.unity"
+    guid: a4c74191ea751064983b717ce752699f
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/11guess.unity"
+    guid: 69cf3fe2685bc2c42a068d0fff82c64b
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/12guess.unity"
+    guid: a57ddcc6c544c5c49a46873da5b75f06
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/13guess.unity"
+    guid: de969ff0d56e32e44887fe2c4d24cead
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/14guess.unity"
+    guid: 5cc8e2213de96cd46b1daaec7e5832c3
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/15guess.unity"
+    guid: 9a805986feba1c246ba168bf401253cc
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/16guess.unity"
+    guid: 838d8541736260148ae82ead6f027ed7
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/17guess.unity"
+    guid: 3ad7117965a6ce14db2f4d07c37d2ca8
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/18guess.unity"
+    guid: cc080cc6116603b4b8b61fd1a865c1d2
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/19guess.unity"
+    guid: 5db11954ef1e74843bd80c705285083a
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u0417\u0430\u0433\u0430\u0434\u043A\u0438/20guess.unity"
+    guid: d9a76a8b3e426e64dbc6ab0a2008dc98
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/LevelsNoNeed.unity"
+    guid: d4924fcc3c2326f42bbf8ea4e5e016fd
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/1noNeed.unity"
+    guid: 517a839490848d7469f1947fe85b3ac3
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/2noNeed.unity"
+    guid: 7844426e6a2a9034f93c6a61d1be39c3
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/3noNeed.unity"
+    guid: 3615ca653c8085f459381431d1af1c95
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/4noNeed.unity"
+    guid: e5678af6380538e49a71bed2ec16aaa6
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/5noNeed.unity"
+    guid: ec46f8f4b7b286242a41b3a68dbfa8cc
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/6noNeed.unity"
+    guid: 196474bd6da4a904ab3d3c00053009fa
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/7noNeed.unity"
+    guid: 8b354a9b60a0d304b8426c7184de1d11
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/8noNeed.unity"
+    guid: 1becdb78f57d7bc4f9f984b5ac51ea0c
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/9noNeed.unity"
+    guid: 2dd5949a7a5c6ff4f8116e50036d6a0e
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/10noNeed.unity"
+    guid: c24fdedd900fb854caa569acd680577a
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/11noNeed.unity"
+    guid: 62c7daf2368f0004a9e23af8cb7873f2
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/12noNeed.unity"
+    guid: 5e43e700bfb658e489ff2a8393134a0d
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/13noNeed.unity"
+    guid: 5c6b1acb90c35fe41bd8941454e8332d
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/14noNeed.unity"
+    guid: d6366b59d252f484cbbe651e18a8e744
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/15noNeed.unity"
+    guid: d942d4df74650604abe0da32c2773502
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/16noNeed.unity"
+    guid: f97a1d5c75ff3324f90080cfce0c8ca9
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/17noNeed.unity"
+    guid: 70b41927f3957ab439ef173d12e97160
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/18noNeed.unity"
+    guid: 1166c8f9b18c0f54dbac1265bd213be5
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/19noNeed.unity"
+    guid: a2f42d75364de514e88e68bd7815065a
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u043B\u0438\u0448\u043D\u0435\u0435/20noNeed.unity"
+    guid: c4ac8e590deef704e9d5b1112f092fce
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/LevelsFirst.unity"
+    guid: bb25b624c4bbb884ca72991d291282ad
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/1first.unity"
+    guid: 324931a376309d843939cf7894415177
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/2first.unity"
+    guid: 745a5b21a46074d48b89f099600c28a3
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/3first.unity"
+    guid: cbcf11a82e8f6b14babe0a2bee047f55
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/4first.unity"
+    guid: b34fe54fb14221443bc8a2a1fc044f9c
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/5first.unity"
+    guid: 326f3a0395c56e4449fdd9cd6f746ae5
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/6first.unity"
+    guid: b8bee9c03d2921b408cf21f229cc2714
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/7first.unity"
+    guid: 9431b037e6da1d34090376fe5eac26b9
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/8first.unity"
+    guid: ae3e5cf42305a1f4a8a34c9f1b3eeb2f
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/9first.unity"
+    guid: f598e109f9096c7489e61180be3936ad
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/10first.unity"
+    guid: 91a6f55be64111242b1b6d85677ad693
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/11first.unity"
+    guid: 435a61ef7cdea2f4d9912fe66a91e953
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/12first.unity"
+    guid: 67a43a1a12ff44342b920044a2973c0c
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/13first.unity"
+    guid: 04cd0cbde7e13004a883096f3ba41721
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/14first.unity"
+    guid: 9af26741a6307c446825e697b075ca42
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/15first.unity"
+    guid: e3b64e1f390a4e742a3679453f4d07de
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/16first.unity"
+    guid: cb64a92f672d55c41b450a7ffff11546
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/17first.unity"
+    guid: d83477715ca8c8b42888713250938727
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/18first.unity"
+    guid: 1b705540f279fc74b85e1f0b150dee25
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/19first.unity"
+    guid: 0887670763bfe4c4483f9b56cf003c6e
+  - enabled: 1
+    path: "Assets/Scenes/Logic/\u041F\u0435\u0440\u0432\u043E\u0435/20first.unity"
+    guid: a65887400ef8baf4687f851b5c2ad821
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

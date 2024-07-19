@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: d74e003ff34d86148ab366a8d04d4097
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1463299787118331232
+    second: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_0
+  - first:
+      213: -4615735656148836018
+    second: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_1
+  - first:
+      213: 5427519861393627252
+    second: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_2
+  - first:
+      213: 4801034973513516283
+    second: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_3
+  - first:
+      213: -5702494433093055334
+    second: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_4
+  - first:
+      213: -6199605343591791135
+    second: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_5
+  - first:
+      213: -7706810723891678086
+    second: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_6
+  - first:
+      213: 2299229237801385283
+    second: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 378
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065c71b476fae4410800000000000000
+      internalID: 1463299787118331232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 119
+        width: 248
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e42e30ec91ffb0800000000000000
+      internalID: -4615735656148836018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 266
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4789eb5ce8c625b40800000000000000
+      internalID: 5427519861393627252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 311
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf400861fd3b0a240800000000000000
+      internalID: 4801034973513516283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 325
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c88d5b68bacd0b0800000000000000
+      internalID: -5702494433093055334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 307
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5099379c396f9a0800000000000000
+      internalID: -6199605343591791135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 286
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74f343aa78eb0590800000000000000
+      internalID: -7706810723891678086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 112
+        width: 145
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34df7585fc088ef10800000000000000
+      internalID: 2299229237801385283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_0: 1463299787118331232
+      png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_1: -4615735656148836018
+      png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_2: 5427519861393627252
+      png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_3: 4801034973513516283
+      png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_4: -5702494433093055334
+      png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_5: -6199605343591791135
+      png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_6: -7706810723891678086
+      png-clipart-television-show-television-presenter-illustration-the-host-in-a-cartoon-tv-set-cartoon-character-television-removebg-preview_7: 2299229237801385283
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

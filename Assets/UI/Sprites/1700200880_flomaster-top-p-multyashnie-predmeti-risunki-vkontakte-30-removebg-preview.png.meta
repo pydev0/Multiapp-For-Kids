@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 3561ade070e871544b9eb15eecc27305
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 105
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f2337bf8e51484fb67e56df2af4a3b
+      internalID: 938759764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 300
+        width: 114
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8679e7f6bf952458715ea4eed88910
+      internalID: 2024220203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 258
+        width: 65
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41033b7023a46142abdc795df4cd87e
+      internalID: -1754618384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2e5145973db34cbafccb37773d0e3
+      internalID: -1145698234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 426
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d05558a97445034d97b42aac36b497b
+      internalID: 2133696108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 385
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ef7bcad65ce34429f348be0844cbba
+      internalID: 1333837796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 342
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec55bb93a69bbdc498b351b9671d90ec
+      internalID: -1063914665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 330
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554457ed66f67db42b18a6ed289d88bf
+      internalID: -1610990553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 221
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97abdcf655638f647b2e956721791c50
+      internalID: -611395255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 68
+        width: 173
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52a6f63b4fc537408b166dbb9016fe6
+      internalID: 1012595823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 158
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964933d15d6fb434b95b3329d169c6ac
+      internalID: -1480734910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 66
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f308aec94d5d3b478e046e6461d0810
+      internalID: 943146083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e99175f1b6320b45bb4e165d5f8b295
+      internalID: -1816611204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719e2506ab11e8f4aab617426f24944f
+      internalID: -67538435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd6defc0b3a73e4991c70da0cc57f03
+      internalID: 2011345906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_0: 938759764
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_1: 2024220203
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_10: -742109986
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_11: 1012595823
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_12: -1480734910
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_13: 943146083
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_14: -1816611204
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_15: -67538435
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_16: 2011345906
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_2: -1754618384
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_3: -1145698234
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_4: 2133696108
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_5: 1333837796
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_6: -1063914665
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_7: -1610990553
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_8: -2144833003
+      1700200880_flomaster-top-p-multyashnie-predmeti-risunki-vkontakte-30-removebg-preview_9: -611395255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
