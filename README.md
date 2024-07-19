@@ -58,7 +58,7 @@ We value your feedback! If you have any questions, suggestions, or need support,
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]((https://github.com/PyDev0/Multiapp-For-Kids/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/PyDev0/Multiapp-For-Kids/blob/main/LICENSE) file for details.
 
 ---
 
