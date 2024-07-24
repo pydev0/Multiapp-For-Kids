@@ -889,8 +889,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.44243824, y: 0.5}
   m_AnchorMax: {x: 0.44243824, y: 0.5}
-  m_AnchoredPosition: {x: 7, y: -14}
-  m_SizeDelta: {x: 150.26465, y: 89.52002}
+  m_AnchoredPosition: {x: 7, y: -1.3037}
+  m_SizeDelta: {x: 150.2646, y: 85.893}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &959084654
 MonoBehaviour:
@@ -962,8 +962,8 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1437711737}
   - {fileID: 959084653}
+  - {fileID: 1437711737}
   m_Father: {fileID: 1657115513}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1602,7 +1602,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   settingsPanel: {fileID: 0}
-  nameScene: 2Security
+  nameScene: 2FirstProga
   wrongAnswerAnim: {fileID: 0}
   inviseAnim: {fileID: 0}
   winPanelAnim: {fileID: 0}

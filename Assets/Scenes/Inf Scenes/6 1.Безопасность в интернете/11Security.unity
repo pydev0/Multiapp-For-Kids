@@ -2423,7 +2423,7 @@ MonoBehaviour:
   nameScene: 
   wrongAnswerAnim: {fileID: 1585396217}
   inviseAnim: {fileID: 1385204664}
-  winPanelAnim: {fileID: 0}
+  winPanelAnim: {fileID: 266954499}
   buttonsBigLess:
   - {fileID: 221668921}
   - {fileID: 2112900242}

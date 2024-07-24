@@ -1162,7 +1162,7 @@ MonoBehaviour:
     \u0438 \u0432 \u0440\u0435\u0430\u043B\u044C\u043D\u043E\u0439 \u0436\u0438\u0437\u043D\u0438,
     \u0435\u0441\u0442\u044C \u043F\u0440\u0430\u0432\u0434\u0430 \r\n\u0438 \u043D\u0435\u043F\u0440\u0430\u0432\u0434\u0430.
     \u041D\u0435 \u0432\u0441\u0435\u0433\u0434\u0430 \u0442\u043E, \u0447\u0442\u043E
-    \u0442\u044B \u0432\u0438\u0434\u0438\u0448\u044C \u0438\u043B\u0438 \u0447\u0438\u0442\u0430\x02\u0435\u0448\u044C,
+    \u0442\u044B \u0432\u0438\u0434\u0438\u0448\u044C \u0438\u043B\u0438 \u0447\u0438\u0442\u0430\u0435\u0448\u044C,
     \u2013 \u043F\u0440\u0430\u0432\u0434\u0430."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d98dacac442248d4595d54048b621dc8, type: 2}
@@ -1525,7 +1525,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   settingsPanel: {fileID: 0}
-  nameScene: 4Securirty
+  nameScene: 4Security
   wrongAnswerAnim: {fileID: 0}
   inviseAnim: {fileID: 0}
   winPanelAnim: {fileID: 0}
