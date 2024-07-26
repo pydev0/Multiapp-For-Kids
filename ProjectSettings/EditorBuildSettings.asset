@@ -679,6 +679,27 @@ EditorBuildSettings:
     path: Assets/Scenes/Inf Scenes/8. Give commands/5GiveCommands.unity
     guid: 3c366907ff44419438d19d50cf547dc0
   - enabled: 1
+    path: Assets/Scenes/Inf Scenes/9. StartScratch/1StartScratch.unity
+    guid: 6d66087dc4cc4e843b4df08379be0fa0
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/9. StartScratch/2StartScratch.unity
+    guid: 3bc156fa4dfad4a489e68b4cb0543272
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/9. StartScratch/3StartScratch.unity
+    guid: 0fbf6c394c5110a4eb8a2f72600c415a
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/9. StartScratch/4StartScratch.unity
+    guid: ebf03693860f8d7478ecb9aabf57d908
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/9. StartScratch/5StartScratch.unity
+    guid: a8f2540205b14e84d995108ca43556c1
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/9. StartScratch/6StartScratch.unity
+    guid: bf290050b2917f74d8a6bc76769a68c4
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/9. StartScratch/7StartScratch.unity
+    guid: 34cd51e072fe1d3428f0e25802f9f09c
+  - enabled: 1
     path: Assets/Scenes/Logic/LogicLevelsScene.unity
     guid: 026ba61cf769fa246aa13dd5c97c8ea4
   - enabled: 1
