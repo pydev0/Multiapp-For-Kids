@@ -659,8 +659,6 @@ MonoBehaviour:
   NextSlideAnim2: {fileID: 0}
   PreviousSlideAnim1: {fileID: 0}
   PreviousSlideAnim2: {fileID: 0}
-  video: {fileID: 0}
-  videoObject: {fileID: 0}
   audioSource1: {fileID: 46989217}
   audioSource2: {fileID: 1161992730}
 --- !u!1 &519420028
@@ -1988,7 +1986,7 @@ MonoBehaviour:
   m_text: "\u041F\u041E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0435\u043C!\n\n\n\u0442\u044B
     \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043B \u0440\u0430\u0437\u0434\u0435\u043B
     '\u0414\u0430\u0432\u0430\u0442\u044C \u043A\u043E\u043C\u0430\u043D\u0434\u044B
-    - \u043B\u0435\u0433\u043A\u043E!'."
+    - \u043B\u0435\u0433\u043A\u043E'."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d98dacac442248d4595d54048b621dc8, type: 2}
   m_sharedMaterial: {fileID: -4674671263845583340, guid: d98dacac442248d4595d54048b621dc8, type: 2}
