@@ -8,8 +8,6 @@ public class InfButtonsAnim : MonoBehaviour
     public Animation PreviousSlideAnim1;
     public Animation PreviousSlideAnim2;
 
-    public VideoPlayer video;
-    public GameObject videoObject;
     public AudioSource audioSource1;
     public AudioSource audioSource2;
 
@@ -19,6 +17,5 @@ public class InfButtonsAnim : MonoBehaviour
         NextSlideAnim1.Play();
         NextSlideAnim2.Play();
         audioSource2.Play();
-        video.Stop();
     }
 }
