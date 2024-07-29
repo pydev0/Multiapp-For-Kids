@@ -1131,7 +1131,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.112, y: 0.67417663}
   m_AnchorMax: {x: 0.90300006, y: 0.89857316}
-  m_AnchoredPosition: {x: 2.2963867, y: -241}
+  m_AnchoredPosition: {x: 2.2963257, y: -194}
   m_SizeDelta: {x: 4.5928, y: -2.7983093}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1233630690
@@ -1154,9 +1154,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0414\u0430\u0432\u0430\u0439 \u043F\u0440\u0438\u0434\u0443\u043C\u0430\u0435\u043C
-    \u0441\u0432\u043E\u044E \u0432\u043E\u043B\u0448\u0435\u0431\u043D\u0443\u044E
-    \u0441\u043A\u0430\u0437\u043A\u0443."
+  m_text: "\u0417\u043D\u0430\u0435\u0448\u044C \u043B\u0438 \u0442\u044B?\r\n\u0421\u0435\u043A\u0443\u043D\u0434\u0430
+    \u2212 \u0435\u0434\u0438\u043D\u0438\u0446\u0430 \u0432\u0440\u0435\u043C\u0435\u043D\u0438."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d98dacac442248d4595d54048b621dc8, type: 2}
   m_sharedMaterial: {fileID: -4674671263845583340, guid: d98dacac442248d4595d54048b621dc8, type: 2}
@@ -1518,7 +1517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   settingsPanel: {fileID: 0}
-  nameScene: 5ScratchPractice
+  nameScene: 6SaveScratch
   wrongAnswerAnim: {fileID: 0}
   inviseAnim: {fileID: 0}
   winPanelAnim: {fileID: 0}
@@ -1876,8 +1875,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u041C\u043E\u044F \u043F\u0435\u0440\u0432\u0430\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430.\r\n\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F
-    \u0440\u0430\u0431\u043E\u0442\u0430"
+  m_text: "\u041C\u043E\u044F \u043F\u0435\u0440\u0432\u0430\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430.\r\n\u0421\u0434\u0435\u043B\u0430\u043B
+    \u2013 \u0441\u043E\u0445\u0440\u0430\u043D\u0438"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d98dacac442248d4595d54048b621dc8, type: 2}
   m_sharedMaterial: {fileID: -4674671263845583340, guid: d98dacac442248d4595d54048b621dc8, type: 2}
@@ -2052,8 +2051,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0414\u0430\u0432\u0430\u0439 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043C
-    \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0443\u044E \u0440\u0430\u0431\u043E\u0442\u0430\r\n"
+  m_text: "\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435
+    \u0437\u0430\u0434\u0430\u043D\u0438\u0435\r\n\u041F\u043E\u043A\u0430\u0436\u0438
+    \u0434\u0440\u0443\u0437\u044C\u044F\u043C \u0438 \u0440\u043E\u0434\u0438\u0442\u0435\u043B\u044F\u043C,
+    \u043A\u0430\u043A \u0441\u043E\u0445\u0440\u0430\u043D\u044F\u0442\u044C \u0438
+    \u043E\u0442\u043A\u0440\u044B\u0432\u0430\u0442\u044C \u043D\u0443\u0436\u043D\u0443\u044E
+    \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0443 \u0432 \u0441\u0440\u0435\u0434\u0435
+    Scratch."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d98dacac442248d4595d54048b621dc8, type: 2}
   m_sharedMaterial: {fileID: -4674671263845583340, guid: d98dacac442248d4595d54048b621dc8, type: 2}
@@ -2080,8 +2084,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

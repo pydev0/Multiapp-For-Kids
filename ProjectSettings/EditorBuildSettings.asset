@@ -715,6 +715,27 @@ EditorBuildSettings:
     path: Assets/Scenes/Inf Scenes/10. ScratchPractice/5ScratchPractice.unity
     guid: 88c19feed2f98ac4b86091425ec25d75
   - enabled: 1
+    path: Assets/Scenes/Inf Scenes/11.Save Scatch/1SaveScratch.unity
+    guid: d8cf08e319b80ee4ba01033fddb7be04
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/11.Save Scatch/2SaveScratch.unity
+    guid: 85228ce6d4216224bac22b5c5130fa6c
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/11.Save Scatch/3SaveScratch.unity
+    guid: 61b0a91b0dc31cf4f8ae550919bb92b2
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/11.Save Scatch/4SaveScratch.unity
+    guid: e0277d3db42d98e4c96d6cb043488ffb
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/11.Save Scatch/5SaveScratch.unity
+    guid: 53c5984f95d38fc449a327bbff8e6eb9
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/11.Save Scatch/6SaveScratch.unity
+    guid: 98af454814909dc478f2e9534a35e025
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/11.Save Scatch/7SaveScratch.unity
+    guid: b1fde2417fcf0824baa5d629a73b7963
+  - enabled: 1
     path: Assets/Scenes/Logic/LogicLevelsScene.unity
     guid: 026ba61cf769fa246aa13dd5c97c8ea4
   - enabled: 1
