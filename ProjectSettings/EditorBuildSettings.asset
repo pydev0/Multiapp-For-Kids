@@ -736,6 +736,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Inf Scenes/11.Save Scatch/7SaveScratch.unity
     guid: b1fde2417fcf0824baa5d629a73b7963
   - enabled: 1
+    path: Assets/Scenes/Inf Scenes/12. Check yourself/1CheckYourself.unity
+    guid: 0f104c34a7c917f4594d7f6c3bab0307
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/12. Check yourself/2CheckYourself.unity
+    guid: 04744dcc9d0844a4bbf72e57c782fa8e
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/12. Check yourself/3CheckYourself.unity
+    guid: c010526416537314c8c99c45b3ef9403
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/12. Check yourself/4CheckYourself.unity
+    guid: 4364876ab2db66943821ba1ec36fd42a
+  - enabled: 1
+    path: Assets/Scenes/Inf Scenes/12. Check yourself/5CheckYourself.unity
+    guid: 6e9ea4939a0686c44816f5c77e1d3281
+  - enabled: 1
     path: Assets/Scenes/Logic/LogicLevelsScene.unity
     guid: 026ba61cf769fa246aa13dd5c97c8ea4
   - enabled: 1
